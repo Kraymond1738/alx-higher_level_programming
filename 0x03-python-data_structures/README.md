@@ -1,8 +1,7 @@
 # 0x03-python-data_structures
 
 ## Task 0
-'''
- 0. Print a list of integers
+''' 0. Print a list of integers
 mandatory
 Write a function that prints all integers of a list.
 
@@ -24,8 +23,7 @@ guillaume@ubuntu:~/0x03$ ./0-main.py
 2
 3
 4
-5
-'''
+5 '''
 ## Task 1
 '''
 1. Secure access to an element in a list
